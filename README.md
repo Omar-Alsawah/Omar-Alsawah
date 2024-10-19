@@ -4,31 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Alsawah!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from [Your Country] 🌍</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **[Your Project or Area of Focus]**
- 
- 🌱 I’m currently learning **[Technologies you're currently learning]**
-
-💬 Ask me about **[Languages, Technologies, or Topics you're comfortable with]... or anything [here](https://github.com/Omar-Alsawah/Omar-Alsawah/issues)**
-
-⚡ Fun fact **[Add a fun fact here!]**
-
+ - 👨‍💻 I'm Software Development Engineer 
+- :school: I `Student` from the [Faculty of Computers & Informatics] at [E-JUST University](https://www.ejust.edu.eg/).
+- ✍🏻 I love using Software as a solution for every Problem
+- 🤓 Always learning new things
  </div>
  
 <div align="center"> 
-  <a href="mailto:omar.alsawah@email.com">
+  <a href="mailto:omaralsawah2022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/omar-alsawah" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-alsawah-99aa4826b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://omar-alsawah.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -38,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
