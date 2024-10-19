@@ -1,6 +1,5 @@
-<h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer+%40noon;R%26D+Engineer+%40Coademy;3x+ACPC+Finalist;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -101,4 +100,12 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <img src = "https://github.com/Omar-Alsawah/Omar-Alsawah/blob/main/Images/OS.gif?raw=true"
+## 🐍 A Snake Eating My Contributions Graph
+
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar-Alsawah/Omar-Alsawah/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-Alsawah/Omar-Alsawah/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Omar-Alsawah/Omar-Alsawah/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
