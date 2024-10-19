@@ -8,7 +8,7 @@
 <img align="right" src="https://github.com/Omar-Alsawah/Omar-Alsawah/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 - 👨‍💻 I'm a Software Development Engineer
-- :school: I am a `Student` at the [Faculty of Computers & Informatics] at [E-JUST University](https://www.ejust.edu.eg/).
+- :school: I am a `Student` at the Faculty of Computers & Informatics at [E-JUST University](https://www.ejust.edu.eg/).
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
 - :thinking: I’m currently open for a new `job opportunity`
