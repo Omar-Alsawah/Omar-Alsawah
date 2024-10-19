@@ -71,7 +71,6 @@
   &emsp;
   <a href="https://developer.android.com/studio" target="_blank"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%234CAF50.svg?style=plastic&logo=android&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="CLI" src="https://img.shields.io/badge/CLI-%231F2937.svg?style=plastic&logo=cli&logoColor=white"></a>
 </p>
 
 ### <img src = "https://github.com/Omar-Alsawah/Omar-Alsawah/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
@@ -87,5 +86,4 @@
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white"></a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Omar-Alsawah/Omar-Alsawah/main/dist/github-snake.svg" width="50%">
 
