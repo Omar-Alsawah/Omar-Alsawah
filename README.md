@@ -1,20 +1,19 @@
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
 </p>
-
 
 <br>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+<img align="right" src="https://github.com/Omar-Alsawah/Omar-Alsawah/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-- 👨‍💻 I'm Software Development Engineer
+- 👨‍💻 I'm a Software Development Engineer
 - :school: I am a `Student` at the [Faculty of Computers & Informatics] at [E-JUST University](https://www.ejust.edu.eg/).
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
 - :thinking: I’m currently open for a new `job opportunity`
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://github.com/Omar-Alsawah/Omar-Alsawah/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
   <a href="mailto:omaralsawah2022@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Omar-Alsawah"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -22,7 +21,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming Languages
+### <img src = "https://github.com/Omar-Alsawah/Omar-Alsawah/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming Languages
 
 <p align="center">
   &emsp;
@@ -37,7 +36,7 @@
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend Development
+### <img src = "https://github.com/Omar-Alsawah/Omar-Alsawah/blob/main/Images/Front_End.gif?raw=true" width=5%> Frontend Development
 
 <p align="center">
   &emsp;
@@ -50,7 +49,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Software & Tools
+### <img src = "https://github.com/Omar-Alsawah/Omar-Alsawah/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Software & Tools
 
 <p align="center">
   &emsp;
@@ -69,12 +68,20 @@
   <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  &emsp;
+  <a href="https://developer.android.com/studio" target="_blank"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%234CAF50.svg?style=plastic&logo=android&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="CLI" src="https://img.shields.io/badge/CLI-%231F2937.svg?style=plastic&logo=cli&logoColor=white"></a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+### <img src = "https://github.com/Omar-Alsawah/Omar-Alsawah/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
 
 <p align="center">
   &emsp;
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Eclipse"
+  <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=plastic&logo=eclipse&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=plastic&logo=pycharm&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ
