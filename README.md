@@ -67,7 +67,7 @@
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Omar-Alsawah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake](file:///home/omar/Downloads/github-user-contribution.svg)
+![snake](file:///home/omar/Downloads/github-user-contribution%20(1).svg)
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you!</b></em>
