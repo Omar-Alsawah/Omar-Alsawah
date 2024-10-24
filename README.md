@@ -1,30 +1,18 @@
 <h1 align="center">Hi, I'm Omar Alsawah 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Omar-Alsawah.Omar-Alsawah&left_color=royalblue&right_color=black"  />
-<h3 align="center">Aspiring Full Stack Developer from China </h3>
 
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend  
-🤔 I'm currently working on Kubernetes with edge computing.
-
-✨ I study: React, Kubernetes, Rust, Nodejs
 
 ## About me:
-- 😄 Fun fact: I'm a Java developer before, worked in IBM
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](mailto:taozhi8833998@gmail.com)
-- 💬 Ask me about `Frontend` or `Backend`
+- 📫 How to reach me: [Email](omaralsawah2022@gmail.com)
+- 💬 Ask me about `Frontend` 
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ## My stack:
-- 5+ years of experience in React, Node.js, Express.js , async, await
-- 3+ years of experience in Kubernetes
-- 1+ years of experience in Rust
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
 - HTML/CSS, Javascript
-- git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
-- LocalStorage, SessionStorage, JWT
+- git
+- SQL, MySQL
 
 ## Languages and Tools:
 <div align="left">
@@ -32,7 +20,6 @@
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
   <img width="12" />
@@ -42,7 +29,6 @@
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="12" />
