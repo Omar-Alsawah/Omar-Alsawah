@@ -1,0 +1,21 @@
+name: Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Generate snake animation
+        uses: Platane/snk@master
+        with:
+          github_user: Omar-Alsawah
+          width: 100
+          height: 100
+          output: ./output/github-contribution-grid-snake.svg
+
